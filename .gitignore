@@ -1,0 +1,15 @@
+#Intellij Files
+.gradle
+.idea
+build/
+out/
+
+#Class Files
+*.class
+*.iml
+
+
+#Report Dir
+target/
+
+*.html
